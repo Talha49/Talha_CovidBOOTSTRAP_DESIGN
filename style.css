@@ -1,0 +1,78 @@
+* {
+    padding: 0em;
+    margin: 0em;
+}
+
+.logo img {
+    height: 5rem;
+}
+
+#first {
+    background-color: rgb(224, 224, 224);
+}
+
+#aa {
+    width: 10vw;
+    height: 25vh;
+    padding: 0em 0em 1em 0em;
+}
+
+@media only screen and (max-width: 500px) and (min-width: 10px) {
+    #aa {
+        width: 30vw;
+        height: 55vw;
+
+    }
+}
+
+@media only screen and (max-width: 400px) and (min-width: 10px) {
+    #aa {
+        width: 25vw;
+        height: 75vw;
+
+    }
+}
+
+@media only screen and (max-width: 706px) and (min-width: 501px) {
+    #aa {
+        width: 25vw;
+        height: 35vw;
+    }
+}
+
+@media only screen and (max-width: 900px) and (min-width: 707px) {
+    #aa {
+        width: 25vw;
+        height: 30vw;
+    }
+}
+
+#virus img {
+    height: 6rem;
+}
+
+#arrow1 img {
+    height: 2rem;
+}
+
+#secondimg img {
+    height: 6rem;
+}
+
+#arrow2 img {
+    height: 2rem;
+}
+
+#logos img{
+    height: 3rem;
+}
+
+#logotop{
+    height: 75px;
+    background-color: rgb(224, 224, 224);
+}
+
+#fever img{
+    width: 25rem;
+}
+
